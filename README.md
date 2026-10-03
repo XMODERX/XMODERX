@@ -12,7 +12,14 @@ Discord id `472467602091016192`, ник moderzx.
 
 ## Стек
 
-[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://github.com/XMODERX) [![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://github.com/XMODERX/vizitka) [![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)](https://github.com/XMODERX/vizitka) [![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://github.com/XMODERX/vizitka) [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/XMODERX) [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/XMODERX)
+<p>
+  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="28" height="28"></a>
+</p>
 
 C# · TypeScript · Angular · Sass · HTML · CSS
 
