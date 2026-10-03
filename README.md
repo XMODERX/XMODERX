@@ -12,16 +12,16 @@ Discord id `472467602091016192`, ник moderzx.
 
 ## Стек
 
-<p>
-  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="28" height="28"></a>&nbsp;&nbsp;
-  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="28" height="28"></a>&nbsp;&nbsp;
-  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="28" height="28"></a>&nbsp;&nbsp;
-  <a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="28" height="28"></a>&nbsp;&nbsp;
-  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="28" height="28"></a>&nbsp;&nbsp;
-  <a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="28" height="28"></a>
-</p>
-
-C# · TypeScript · Angular · Sass · HTML · CSS
+<table width="100%">
+  <tr>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"></a><br><sub>C#</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"></a><br><sub>TypeScript</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"></a><br><sub>Angular</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"></a><br><sub>Sass</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="36" height="36"></a><br><sub>HTML</sub></td>
+    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="36" height="36"></a><br><sub>CSS</sub></td>
+  </tr>
+</table>
 
 <img src="assets/divider.png" alt="" width="100%">
 
