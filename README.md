@@ -12,7 +12,7 @@ Discord id `472467602091016192`, ник moderzx.
 
 ## Стек
 
-<img src="assets/stack.png" alt="Стек на всю ширину: C#, TypeScript, Angular, Sass, HTML, CSS." width="100%">
+<img src="assets/stack.png?v=2" alt="Стек по центру: C#, TypeScript, Angular, Sass, HTML, CSS." width="100%">
 
 <img src="assets/divider.png" alt="" width="100%">
 
