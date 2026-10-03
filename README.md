@@ -1,12 +1,24 @@
-<img src="assets/banner.png" alt="Сейчас играет: THE ALCHEMIST — HAARPER. Ник moderzx." width="100%">
+<img src="assets/banner.png" alt="Саша, moderzx. Интерфейсы на Angular, Flutter и TypeScript." width="100%">
+
+### > Привет, я **Саша**
+
+「 Интерфейсы на Angular, Flutter и TypeScript. В Steam — moderzx. 」
 
 [Steam](https://steamcommunity.com/profiles/76561199519603890/) · [VK](https://vk.ru/moderzx) · [Telegram](https://t.me/moderzx) · [Discord](https://discord.com/users/472467602091016192) · [почта](mailto:moderzx01@gmail.com)
 
 Discord id `472467602091016192`, ник moderzx.
 
-## О себе
+<img src="assets/divider.png" alt="" width="100%">
 
-Саша, 20. Делаю интерфейсы на Angular, Flutter и TypeScript. В Steam — moderzx.
+## Стек
+
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://github.com/XMODERX/vizitka) [![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)](https://github.com/XMODERX/vizitka) [![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://github.com/XMODERX/vizitka) [![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)](https://github.com/XMODERX) [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/XMODERX) [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/XMODERX)
+
+TypeScript · Angular · Sass · Flutter · HTML · CSS
+
+<img src="assets/divider.png" alt="" width="100%">
+
+## Профиль
 
 ```javascript
 const XMODERX = {
@@ -34,4 +46,14 @@ const XMODERX = {
 };
 ```
 
-[![Статистика GitHub: репозитории и вклад XMODERX](https://github-readme-stats.vercel.app/api?username=XMODERX&show_icons=true&hide_border=true&bg_color=0f0f23&title_color=f8fafc&text_color=94a3b8&icon_color=22c55e)](https://github.com/XMODERX)
+<img src="assets/divider.png" alt="" width="100%">
+
+## Статистика
+
+[![Статистика GitHub: репозитории и вклад XMODERX](https://github-readme-stats.vercel.app/api?username=XMODERX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=3fb950)](https://github.com/XMODERX)
+
+<img src="assets/divider.png" alt="" width="100%">
+
+## Контакты
+
+[Steam](https://steamcommunity.com/profiles/76561199519603890/) · [VK](https://vk.ru/moderzx) · [Telegram](https://t.me/moderzx) · [Discord](https://discord.com/users/472467602091016192) · [почта](mailto:moderzx01@gmail.com)
