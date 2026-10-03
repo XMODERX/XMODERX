@@ -12,16 +12,7 @@ Discord id `472467602091016192`, ник moderzx.
 
 ## Стек
 
-<table width="100%">
-  <tr>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"></a><br><sub>C#</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"></a><br><sub>TypeScript</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"></a><br><sub>Angular</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX/vizitka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"></a><br><sub>Sass</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="36" height="36"></a><br><sub>HTML</sub></td>
-    <td align="center" width="16%"><a href="https://github.com/XMODERX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="36" height="36"></a><br><sub>CSS</sub></td>
-  </tr>
-</table>
+<img src="assets/stack.png" alt="Стек на всю ширину: C#, TypeScript, Angular, Sass, HTML, CSS." width="100%">
 
 <img src="assets/divider.png" alt="" width="100%">
 
@@ -56,6 +47,83 @@ const XMODERX = {
         daily: ["C#", "TypeScript", "Angular"],
         also: ["Sass", "HTML", "CSS"]
     },
+/*
+C#
+        :--:
+     :-++++++-:
+  :-+=:.    .-++-:
+ :++-   .::.   =+*:
+ :+=  .=++++=:+++=:
+ :+=  -++=+***+ .::
+ :++  .=*****+*==*:
+ :+==   ---:  .***:
+  :+**=.:  .:=**+:
+     :+******=:
+        :==:
+
+TypeScript
+=++++++++++++++++++=
+=++++++++++++++++++=
+=++++++++++++++++++=
+=++++++++++++++++++=
+=++++++++++++++++++=
+=+++:      -=.  .=+=
+=++++++  +++: :+=++=
+=++++++  ++++-  .=+=
+=++++++  +++=-+=. +=
+=++++++  +++:   .-+=
+-==================-
+
+Angular
+    .-=:    :=-.
+.-====-      -+++=-.
+-=====        =+++*:
+:====    ::    =+**.
+.===    .=+.    +**
+ ==.    =++=    .**
+ =:    .----.    .+
+ :                .
+     .++++++**.
+     -++++++++:
+       .-=+-.
+
+Sass
+      ..::.
+   .::.....-.
+ :-.       -.
+:-   ....::
+.-.   ..:  : .-
+  .:..-::.::: -:.:.
+  ..:.-.--.--::.   .
+ -  - ...  .
+ .:.
+
+HTML
+ .----------------.
+ .================.
+ .==-          :==.
+  ===  --------===
+  ===  ::::::::===
+  -==:......   ==-
+  :==:.-====: .==:
+  .==: .::..  :==.
+  .===-::...::-==.
+   -============-
+      ..:--:..
+
+CSS
+ -++++++++++++++++-
+ :++++++++=======+:
+ .++=          :=+.
+  +++=====---  -=+
+  +++++=--::.  ==+
+  =++++=--::...=+=
+  -++-.-++==: .=+-
+  :++- .::..  :=+:
+  .+++==-:.::-==+.
+   =++++++====++=
+     .:-=++=-:.
+*/
     links: {
         steam: "https://steamcommunity.com/profiles/76561199519603890/",
         vk: "https://vk.ru/moderzx",
