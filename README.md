@@ -1,8 +1,8 @@
-<img src="assets/banner.png" alt="Саша, moderzx. Интерфейсы на Angular, Flutter и TypeScript." width="100%">
+<img src="assets/banner.png" alt="Саша, moderzx. Full stack, моды для игр на C#." width="100%">
 
 ### > Привет, я **Саша**
 
-「 Интерфейсы на Angular, Flutter и TypeScript. В Steam — moderzx. 」
+「 Full stack. Делаю моды для игр на C#. В Steam — moderzx. 」
 
 [Steam](https://steamcommunity.com/profiles/76561199519603890/) · [VK](https://vk.ru/moderzx) · [Telegram](https://t.me/moderzx) · [Discord](https://discord.com/users/472467602091016192) · [почта](mailto:moderzx01@gmail.com)
 
@@ -12,9 +12,28 @@ Discord id `472467602091016192`, ник moderzx.
 
 ## Стек
 
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://github.com/XMODERX/vizitka) [![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)](https://github.com/XMODERX/vizitka) [![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://github.com/XMODERX/vizitka) [![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)](https://github.com/XMODERX) [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/XMODERX) [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/XMODERX)
+[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://github.com/XMODERX) [![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://github.com/XMODERX/vizitka) [![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)](https://github.com/XMODERX/vizitka) [![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://github.com/XMODERX/vizitka) [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/XMODERX) [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/XMODERX)
 
-TypeScript · Angular · Sass · Flutter · HTML · CSS
+C# · TypeScript · Angular · Sass · HTML · CSS
+
+<img src="assets/divider.png" alt="" width="100%">
+
+```text
+                    .--------.
+                 .-'          `-.
+               .'    .------.    `.
+              /     |   mx   |     \
+             |       `------'       |
+             |     full stack       |
+              \      mods · C#     /
+               `.                .'
+                 `-.          .-'
+                    `--------'
+                         |
+                    .----'----.
+                   /  moderzx  \
+                   `-----------'
+```
 
 <img src="assets/divider.png" alt="" width="100%">
 
@@ -24,17 +43,11 @@ TypeScript · Angular · Sass · Flutter · HTML · CSS
 const XMODERX = {
     aka: "moderzx",
     age: 20,
+    role: "Full stack",
+    mods: ["C#"],
     stack: {
-        daily: ["TypeScript", "Angular", "Sass"],
-        also: ["Flutter", "HTML", "CSS"]
-    },
-    played: {
-        Rust: "7 000h",
-        "Albion Online": "3 000h",
-        "Apex Legends": "1 500h",
-        Overwatch: "1 500h",
-        "Escape from Tarkov": "800h",
-        "Dota 2": "700h"
+        daily: ["C#", "TypeScript", "Angular"],
+        also: ["Sass", "HTML", "CSS"]
     },
     links: {
         steam: "https://steamcommunity.com/profiles/76561199519603890/",
